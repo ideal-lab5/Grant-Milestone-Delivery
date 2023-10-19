@@ -27,3 +27,4 @@ In the third milestone we deliver an initial use case on the etf network, a seco
 
 **Additional Information**
 
+- in the [previous milestone delivery](https://github.com/w3f/Grant-Milestone-Delivery/pull/985), we discussed some potential optimizations of the encryption scheme. Rather than expand the scope of this grant to include this optimization (likely requiring an ammendment and re-approval), we opted to include it in the next phase of the project (we have recently been accepted to the SBP program).
